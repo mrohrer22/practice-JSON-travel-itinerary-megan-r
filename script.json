@@ -6,8 +6,8 @@
     "destinations":[
         {
             "location": "Zion",
-            "arrivaldate": "10/15/2026",
-            "departureDate": "10/16/2026",
+            "arrivaldate": "2026-10-15",
+            "departureDate": "2026-10-16",
             "activities": [
                 {
                     "name": "hiking", 
@@ -21,8 +21,8 @@
         },
         {
             "location": "Bryce",
-            "arrivaldate": "10/16/2026",
-            "departureDate": "10/17/2026",
+            "arrivaldate": "2026-10-16",
+            "departureDate": "2026-10-17",
             "activities": [
                 {
                     "name": "horseback riding", 
@@ -36,12 +36,16 @@
         },
         {
             "location": "Moab",
-            "arrivaldate": "10/18/2026",
-            "departureDate": "10/20/2026",
+            "arrivaldate": "2026-10-18",
+            "departureDate": "2026-10-20",
             "activities": [
                 {
                     "name": "hiking", 
                     "time": "5:00 AM"
+                },
+                {
+                    "name": "exploring", 
+                    "time": "12:00 PM"
                 }
             ]
         }
