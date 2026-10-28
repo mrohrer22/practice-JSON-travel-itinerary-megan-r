@@ -1,12 +1,16 @@
 {
-    "tripname": "Utah Girls Trip",
-    "travlername": "Megan R",
-    "travleremail": "mr@outlook.com",
-    "travlerphone": "123-456-7890",
+    "tripName": "Utah Girls Trip",
+    "traveler": {
+        "name": "Megan R",
+        "contact": {
+                "email": "mr@outlook.com",
+                 "phone": "123-456-7890"
+            }
+        },
     "destinations":[
         {
             "location": "Zion",
-            "arrivaldate": "2026-10-15",
+            "arrivalDate": "2026-10-15",
             "departureDate": "2026-10-16",
             "activities": [
                 {
@@ -21,7 +25,7 @@
         },
         {
             "location": "Bryce",
-            "arrivaldate": "2026-10-16",
+            "arrivalDate": "2026-10-16",
             "departureDate": "2026-10-17",
             "activities": [
                 {
@@ -36,7 +40,7 @@
         },
         {
             "location": "Moab",
-            "arrivaldate": "2026-10-18",
+            "arrivalDate": "2026-10-18",
             "departureDate": "2026-10-20",
             "activities": [
                 {
