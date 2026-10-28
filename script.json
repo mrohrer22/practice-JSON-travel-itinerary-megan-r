@@ -1,0 +1,49 @@
+{
+    "tripname": "Utah Girls Trip",
+    "travlername": "Megan R",
+    "travleremail": "mr@outlook.com",
+    "travlerphone": "123-456-7890",
+    "destinations":[
+        {
+            "location": "Zion",
+            "arrivaldate": "10/15/2026",
+            "departureDate": "10/16/2026",
+            "activities": [
+                {
+                    "name": "hiking", 
+                    "time": "6:00 AM"
+                },
+                {
+                    "name": "exploring", 
+                    "time": "12:00 PM"
+                }
+            ]
+        },
+        {
+            "location": "Bryce",
+            "arrivaldate": "10/16/2026",
+            "departureDate": "10/17/2026",
+            "activities": [
+                {
+                    "name": "horseback riding", 
+                    "time": "9:00 AM"
+                },
+                {
+                    "name": "hiking", 
+                    "time": "1:00 PM"
+                }
+            ]
+        },
+        {
+            "location": "Moab",
+            "arrivaldate": "10/18/2026",
+            "departureDate": "10/20/2026",
+            "activities": [
+                {
+                    "name": "hiking", 
+                    "time": "5:00 AM"
+                }
+            ]
+        }
+    ]
+}
