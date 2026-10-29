@@ -3,22 +3,22 @@
     "traveler": {
         "name": "Megan R",
         "contact": {
-                "email": "mr@outlook.com",
-                 "phone": "123-456-7890"
-            }
-        },
-    "destinations":[
+            "email": "mr@outlook.com",
+            "phone": "123-456-7890"
+        }
+    },
+    "destinations": [
         {
             "location": "Zion",
             "arrivalDate": "2026-10-15",
             "departureDate": "2026-10-16",
             "activities": [
                 {
-                    "name": "hiking", 
+                    "name": "hiking",
                     "time": "6:00 AM"
                 },
                 {
-                    "name": "exploring", 
+                    "name": "exploring",
                     "time": "12:00 PM"
                 }
             ]
@@ -29,11 +29,11 @@
             "departureDate": "2026-10-17",
             "activities": [
                 {
-                    "name": "horseback riding", 
+                    "name": "horseback riding",
                     "time": "9:00 AM"
                 },
                 {
-                    "name": "hiking", 
+                    "name": "hiking",
                     "time": "1:00 PM"
                 }
             ]
@@ -44,11 +44,11 @@
             "departureDate": "2026-10-20",
             "activities": [
                 {
-                    "name": "hiking", 
+                    "name": "hiking",
                     "time": "5:00 AM"
                 },
                 {
-                    "name": "exploring", 
+                    "name": "exploring",
                     "time": "12:00 PM"
                 }
             ]
